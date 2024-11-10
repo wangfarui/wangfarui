@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello, I'm Wray. 👋
 
+- 🔭 I’m currently working on WuHan
+- 🌱 I’m currently learning Java. At the same time, I like to study some small skills and knowledge points
+- 📫 How to reach me: [issues](https://github.com/wangfarui/wangfarui/issues)、[Email](mailto:wray20156294@gmail.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangfarui)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wangfarui/wangfarui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
